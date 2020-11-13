@@ -27,11 +27,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Twitter1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of scrolling through twitter:
 
 <img src='Twitter2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of commenting on a twitter post:
 
 <img src='Twitter3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
